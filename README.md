@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louisaoge
 - 👀 I’m interested in backend and frontend development
-- 🌱 I’m currently learning web3 DAOs
+<!-- - 🌱 I’m currently learning web3 DAOs -->
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me- louisaoge@gmail.com
 
